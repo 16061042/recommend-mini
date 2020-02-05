@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "公司主页",
+  "usingComponents": {
+    "company-detail": "/components/company-detail/company-detail"
+  }
+}

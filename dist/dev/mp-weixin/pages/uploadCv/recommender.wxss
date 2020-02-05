@@ -1,0 +1,94 @@
+
+.content.data-v-062b1a9c{
+    width: 100%;
+    background: rgba(255,255,255,1);
+    padding: 0rpx;
+}
+.block.data-v-062b1a9c{
+    margin-left:40rpx;
+    margin-right: 40rpx; 
+    height: auto;
+}
+.b-title.data-v-062b1a9c{
+    width:auto;
+    height:34rpx;
+    font-size:34rpx;
+    font-family:SourceHanSansCN-Medium,SourceHanSansCN;
+    font-weight:500;
+    color:rgba(42,39,31,1);
+    line-height:51rpx;
+    letter-spacing:1rpx;
+    margin-left: 40rpx;
+    margin-bottom: 95rpx;
+    margin-top: 50rpx;
+}
+.title.data-v-062b1a9c{
+    width:auto;
+    height:32rpx;
+    font-size:32rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(63,60,53,1);
+    line-height:48rpx;
+}
+.input.data-v-062b1a9c{
+    float: right;
+    text-align: right;
+}
+.placeholderStyle.data-v-062b1a9c{
+    width:auto;
+    height:32rpx;
+    font-size:32rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    line-height:48rpx;
+}
+.blank.data-v-062b1a9c{
+    width:100%;
+    height:1rpx;
+    background:rgba(244,244,244,1);
+    margin-top: 40rpx;
+    margin-bottom: 40rpx;
+}
+.bottom-block.data-v-062b1a9c{
+    width:100%;
+    height:120rpx;
+    background:rgba(255,255,255,1);
+    -webkit-box-shadow:0rpx -1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+            box-shadow:0rpx -1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+    position: fixed;
+    bottom: 0px;
+}
+.btn.data-v-062b1a9c{
+    width:auto;
+    height:80rpx;
+    background:rgba(255,204,54,1);
+    -webkit-box-shadow:0rpx 1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+            box-shadow:0rpx 1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+    border-radius:4rpx;
+    margin-left: 20rpx;
+    margin-top: 20rpx;
+    margin-right: 20rpx;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.btn-word.data-v-062b1a9c{
+    width:auto;
+    font-size:30rpx;
+    font-family:SourceHanSansCN-Medium,SourceHanSansCN;
+    font-weight:500;
+    color:rgba(42,39,31,1);
+    line-height:45rpx;
+    letter-spacing:1rpx;
+}
+

@@ -1,0 +1,18 @@
+<!--components/yunxin-player/yunxin-player.wxml-->
+<view class="play-container" style="left:{{config.x}}px; top:{{config.y}}px; width: {{config.width}}px; height: {{config.height}}px; ">
+  <live-player 
+    id="yunxinplayer-{{uid}}"
+    src="{{url}}" 
+    mode="RTC" 
+    class="player" 
+    orientation="{{orientation}}" 
+    min-cache="0.1" 
+    max-cache="0.3" 
+    bindstatechange="stateChangeHandler" 
+    object-fit="{{objectFit}}" 
+    autoplay
+    style="height: {{config.height}}px; position: absolute; width: 100%; top: 0; left: 0;background-color: transparent;"
+    debug="{{debug}}">
+    <slot />
+  </live-player>  
+</view>

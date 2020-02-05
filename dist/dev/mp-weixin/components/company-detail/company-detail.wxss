@@ -1,0 +1,28 @@
+
+.company-detail.data-v-f21b3f22{
+    width:100%;
+    height:auto;
+    font-size:32rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(105,103,98,1);
+    line-height:52rpx;
+}
+.max3.data-v-f21b3f22{
+    display: -webkit-box;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+       text-overflow: ellipsis;
+    word-wrap: break-word;
+    white-space: normal !important;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+.click-word.data-v-f21b3f22{
+    font-size:28rpx;
+    font-family:PingFangSC-Regular,PingFang SC;
+    font-weight:400;
+    color:rgba(105,103,98,1);
+    line-height:33rpx;
+}
+

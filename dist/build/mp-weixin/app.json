@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/mine/index",
+    "pages/mine/info",
+    "pages/mine/success",
+    "pages/position/index",
+    "pages/company/index",
+    "pages/uploadCv/recommender",
+    "pages/uploadCv/candidate",
+    "pages/uploadCv/success",
+    "pages/share/index",
+    "pages/post/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#fbf9fe"
+  },
+  "tabBar": {
+    "color": "#2A271F",
+    "selectedColor": "#FFBE00",
+    "borderStyle": "black",
+    "backgroundColor": "#FFFFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/main/main",
+        "iconPath": "static/img/indexNormal.png",
+        "selectedIconPath": "static/img/indexSelect.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "iconPath": "static/img/myNormal.png",
+        "selectedIconPath": "static/img/mySelect.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {
+    "agora-player": "/wxcomponents/agora-player/agora-player",
+    "agora-pusher": "/wxcomponents/agora-pusher/agora-pusher"
+  }
+}

@@ -1,0 +1,185 @@
+
+.blank-spe.data-v-31762cec{
+    width:100%;
+    height:120rpx;
+    background:rgba(255,255,255,1);
+}
+.content.data-v-31762cec{
+    width: 100%;
+    height: auto;
+    background:rgba(255,255,255,1);
+    padding: 0rpx;
+}
+.block.data-v-31762cec{
+    margin-left: 40rpx;
+    margin-top: 45rpx;
+    margin-bottom: 45rpx;
+    margin-right: 40rpx;
+}
+.company.data-v-31762cec{
+    width:335rpx;
+    height:40rpx;
+    font-size:40rpx;
+    font-family:SourceHanSansCN-Medium,SourceHanSansCN;
+    font-weight:500;
+    color:rgba(42,39,31,1);
+    line-height:60rpx;
+    letter-spacing:1rpx;
+}
+.blank.data-v-31762cec{
+    width:100%;
+    height:10rpx;
+    background:rgba(244,244,244,1);
+}
+.tittle-b.data-v-31762cec{
+    font-size:34rpx;
+    font-family:SourceHanSansCN-Medium,SourceHanSansCN;
+    font-weight:500;
+    color:rgba(42,39,31,1);
+    line-height:48rpx;
+    letter-spacing:1rpx;
+}
+.company-detail.data-v-31762cec{
+    margin-top: 18rpx;
+    width:100%;
+    height:auto;
+    font-size:32rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(105,103,98,1);
+    line-height:52rpx;
+    text-align: justify;
+}
+.tittle.data-v-31762cec{
+    width:auto;
+    height:32rpx;
+    font-size:32rpx;
+    font-family:SourceHanSansCN-Normal,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(42,39,31,1);
+    line-height:48rpx;
+    letter-spacing:1rpx;
+}
+.reward.data-v-31762cec{
+    width:auto;
+    height:28rpx;
+    font-size:28rpx;
+    font-family:SourceHanSansCN-Medium,SourceHanSansCN;
+    font-weight:500;
+    color:rgba(255,44,23,1);
+    line-height:42rpx;
+    letter-spacing:1rpx;
+    float: right;
+    text-align: right;
+}
+.reward-title.data-v-31762cec{
+    width:auto;
+    height:28rpx;
+    font-size:28rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(127,125,121,1);
+    line-height:42rpx;
+    float: right;
+    margin-right: 20rpx;
+    text-align: right;
+}
+.bottom-label.data-v-31762cec{
+    width:auto;
+    height:28rpx;
+    font-size:28rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(105,103,98,1);
+    line-height:42rpx;
+}
+.divider.data-v-31762cec{
+    width:1px;
+    height:19px;
+    color: rgba(212, 212, 210, 1);
+    margin-left: 20rpx;
+    margin-right: 20rpx;
+}
+.salary.data-v-31762cec{
+    width:auto;
+    height:28rpx;
+    font-size:28rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(105,103,98,1);
+    line-height:42rpx;
+    float: right;
+    text-align: right;
+}
+.btn1.data-v-31762cec{
+    width:46%;
+    height:80rpx;
+    background:rgba(63,60,53,1);
+    border-radius:4rpx;
+    margin-bottom: 20rpx;
+    margin-top: 20rpx;
+    margin-left: 20rpx;
+    float: left;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.btn2.data-v-31762cec{
+    width:46%;
+    height:80rpx;
+    background:rgba(255,204,54,1);
+    -webkit-box-shadow:0rpx 1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+            box-shadow:0rpx 1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+    border-radius:4rpx;
+    margin-bottom: 20rpx;
+    margin-top: 20rpx;
+    margin-right: 20rpx;
+    float: right;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.btn-word.data-v-31762cec{
+    width: auto;
+    font-size:30rpx;
+    font-family:SourceHanSansCN-Medium,SourceHanSansCN;
+    font-weight:500;
+    color:rgba(255,204,54,1);
+    line-height:45rpx;
+    letter-spacing:1rpx;
+}
+.bottom-block.data-v-31762cec{
+    width:100%;
+    height:120rpx;
+    background:rgba(255,255,255,1);
+    -webkit-box-shadow:0rpx -1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+            box-shadow:0rpx -1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+    position: fixed;
+    bottom: 0px;
+}
+.highLight.data-v-31762cec{
+    font-size:32rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(105,103,98,1);
+    line-height:52rpx;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "职位详情",
+  "usingComponents": {
+    "company-detail": "/components/company-detail/company-detail"
+  }
+}

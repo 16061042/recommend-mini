@@ -1,0 +1,214 @@
+
+.content.data-v-82595c20{
+    width: 100%;
+    height: auto;
+    background:rgba(255,255,255,1);
+    padding: 0rpx;
+}
+.positionName.data-v-82595c20{
+    width:auto;
+    height:40rpx;
+    font-size:40rpx;
+    font-family:SourceHanSansCN-Medium,SourceHanSansCN;
+    font-weight:500;
+    color:rgba(42,39,31,1);
+    line-height:60rpx;
+    letter-spacing:1rpx;
+    margin-left: 40rpx;
+    margin-top: 45rpx;
+}
+.info-label.data-v-82595c20{
+    width:72rpx;
+    height:28rpx;
+    font-size:28rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(42,39,31,1);
+    line-height:42rpx;
+}
+.divider.data-v-82595c20{
+    width:1rpx;
+    height:19rpx;
+    margin-right: 20rpx;
+    margin-left: 20rpx;
+    color: rgba(212, 212, 210, 1);
+}
+.blank.data-v-82595c20{
+    width:100%;
+    height:10rpx;
+    background:rgba(244,244,244,1);
+}
+.blank-spe.data-v-82595c20{
+    width:100%;
+    height:120rpx;
+    background:rgba(255,255,255,1);
+}
+.reward-tittle.data-v-82595c20{
+    font-size:28rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(105,103,98,1);
+    line-height:42rpx;
+}
+.reward-rule.data-v-82595c20{
+    font-size:28rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(105,103,98,1);
+    line-height:42rpx;
+    word-wrap: break-word;
+    word-break: break-all;
+    text-align: justify;
+}
+.reward.data-v-82595c20{
+    width:112rpx;
+    height:28rpx;
+    font-size:28rpx;
+    font-family:SourceHanSansCN-Medium,SourceHanSansCN;
+    font-weight:500;
+    color:rgba(255,44,23,1);
+    line-height:42rpx;
+    letter-spacing:1rpx;
+}
+.tittle.data-v-82595c20{
+    font-size:34rpx;
+    font-family:SourceHanSansCN-Medium,SourceHanSansCN;
+    font-weight:500;
+    color:rgba(42,39,31,1);
+    line-height:48rpx;
+    letter-spacing:1rpx;
+}
+.job-detail.data-v-82595c20{
+    margin-top: 18rpx;
+    width:100%;
+    height:auto;
+    font-size:32rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(105,103,98,1);
+    line-height:52rpx;
+    text-align: justify;
+}
+.block.data-v-82595c20{
+    margin-left:40rpx;
+    margin-top:50rpx;
+    margin-right: 40rpx; 
+    margin-bottom: 50rpx;
+    height: auto;
+}
+.bottom-block.data-v-82595c20{
+    width:100%;
+    height:120rpx;
+    background:rgba(255,255,255,1);
+    -webkit-box-shadow:0rpx -1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+            box-shadow:0rpx -1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+    position: fixed;
+    bottom: 0px;
+}
+.btn.data-v-82595c20{
+    width:auto;
+    height:80rpx;
+    background:rgba(255,204,54,1);
+    -webkit-box-shadow:0rpx 1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+            box-shadow:0rpx 1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+    border-radius:4rpx;
+    margin-left: 20rpx;
+    margin-top: 20rpx;
+    margin-right: 20rpx;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.btn1.data-v-82595c20{
+    width:46%;
+    height:80rpx;
+    background:rgba(63,60,53,1);
+    border-radius:4rpx;
+    margin-bottom: 20rpx;
+    margin-top: 20rpx;
+    margin-left: 20rpx;
+    float: left;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.btn2.data-v-82595c20{
+    width:46%;
+    height:80rpx;
+    background:rgba(255,204,54,1);
+    -webkit-box-shadow:0rpx 1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+            box-shadow:0rpx 1rpx 0rpx 0rpx rgba(0,0,0,0.1);
+    border-radius:4rpx;
+    margin-bottom: 20rpx;
+    margin-top: 20rpx;
+    margin-right: 20rpx;
+    float: right;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.btn-word.data-v-82595c20{
+    width: auto;
+    font-size:30rpx;
+    font-family:SourceHanSansCN-Medium,SourceHanSansCN;
+    font-weight:500;
+    color:rgba(255,204,54,1);
+    line-height:45rpx;
+    letter-spacing:1rpx;
+}
+.img-spec.data-v-82595c20{
+    width:50rpx;
+    height:50rpx;
+    margin-right:2rpx;
+}
+.salary.data-v-82595c20{
+    height:34rpx;
+    font-size:34rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(43,49,58,1);
+    line-height:51rpx;
+    float: right;
+    text-align: right;
+    margin-right: 40rpx;
+}
+.PhighLight.data-v-82595c20{
+    font-size:32rpx;
+    font-family:SourceHanSansCN-Regular,SourceHanSansCN;
+    font-weight:400;
+    color:rgba(105,103,98,1);
+    line-height:48rpx;
+    margin-right: 40rpx;
+    margin-left: 40rpx;
+    margin-top: 15rpx;
+    margin-bottom: 50rpx;
+    text-align: justify;
+}
+

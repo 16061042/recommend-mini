@@ -1,0 +1,83 @@
+{
+    "pages": [ //pages数组中第一项表示应用启动页,
+        {
+            "path": "pages/main/main",
+            "style": {
+                "navigationStyle":"custom"
+            }
+        },{
+            "path": "pages/mine/index",
+            "style": {
+                "navigationBarTitleText": "Hina闪推侠"
+            }
+        },{
+            "path": "pages/mine/info",
+            "style": {
+                "navigationBarTitleText": "Hina闪推侠"
+            }
+        },{
+            "path": "pages/mine/success",
+            "style": {
+                "navigationBarTitleText": "Hina闪推侠"
+            }
+        },{
+            "path": "pages/position/index",
+            "style": {
+                "navigationBarTitleText": "职位详情"
+            }
+        },{
+            "path": "pages/company/index",
+            "style": {
+                "navigationBarTitleText": "公司主页"
+            }
+        },{
+            "path": "pages/uploadCv/recommender",
+            "style": {
+                "navigationBarTitleText": "邮箱上传简历"
+            }
+        },{
+            "path": "pages/uploadCv/candidate",
+            "style": {
+                "navigationBarTitleText": "邮箱上传简历"
+            }
+        },{
+            "path": "pages/uploadCv/success",
+            "style": {
+                "navigationBarTitleText": "邮箱上传简历"
+            }
+        },{
+            "path": "pages/share/index",
+            "style": {
+                "navigationBarTitleText": "推荐信息"
+            }
+        },{
+            "path": "pages/post/index"
+        }
+    ],
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#ffffff",
+        "backgroundColor": "#fbf9fe",
+        "usingComponents": {
+            "agora-player": "/wxcomponents/agora-player/agora-player",
+            "agora-pusher": "/wxcomponents/agora-pusher/agora-pusher"
+        }
+    },
+    "tabBar": {
+        "color": "#2A271F",
+        "selectedColor": "#FFBE00",
+        "borderStyle": "black",
+        "backgroundColor": "#FFFFFFFF",
+        "list": [{
+            "pagePath": "pages/main/main",
+            "iconPath": "static/img/indexNormal.png",
+            "selectedIconPath": "static/img/indexSelect.png",
+            "text": "主页"
+        }, {
+            "pagePath": "pages/mine/index",
+            "iconPath": "static/img/myNormal.png",
+            "selectedIconPath": "static/img/mySelect.png",
+            "text": "我的"
+        }]
+    }
+}

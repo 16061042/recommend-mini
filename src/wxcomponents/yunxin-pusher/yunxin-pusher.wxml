@@ -1,0 +1,23 @@
+<!--components/yunxin-pusher/yunxin-pusher.wxml-->
+<view class="pusher-container" id="rtcpusher" style="left: {{config.x}}px; top: {{config.y}}px; width: {{config.width}}px; height: {{config.height}}px; position: absolute;">
+  <live-pusher
+    style="height:{{config.height}}px; position: absolute; width: 100%; " 
+    url="{{url}}" 
+    wx:if="{{url.length !== 0}}"
+    mode="RTC" 
+    aspect="{{aspect}}" 
+    class="camera" 
+    bindstatechange="stateChangeHandler" 
+    bindnetstatus="netChangeHandler" 
+    background-mute="true" 
+    enable-camera="{{enableCamera}}"
+    muted="{{muted}}" 
+    beauty="{{beauty}}"
+    max-bitrate="500" 
+    min-bitrate="200"
+    debug="{{debug}}" 
+    autopush="true">
+    <slot />
+
+  </live-pusher>
+</view>
